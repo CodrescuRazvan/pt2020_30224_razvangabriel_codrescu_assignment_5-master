@@ -1,0 +1,10 @@
+Apparition of each activity over the entire entire monitoring period: 
+Breakfast:14
+Grooming:51
+Toileting:44
+Sleeping:14
+Leaving:14
+Spare_Time/TV:77
+Snack:11
+Showering:14
+Lunch:9
